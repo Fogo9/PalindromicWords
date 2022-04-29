@@ -1,22 +1,20 @@
 # **PALINDROMIC WORDS**
 
-# Information
+## INFORMATION
 
 * **If a word gives the same word when read backwards, that word is "Palindromic Word".**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * It returns true and false with a boolean variable, indicating whether the typed word is true or false.
 
 * With the if condition in the while and for loop, the program will run fine.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -84,13 +82,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/PalindromicWords.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
